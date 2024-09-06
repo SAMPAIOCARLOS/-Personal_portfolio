@@ -1,0 +1,300 @@
+@media(max-width: 1427px) {
+    .card_in_focus {
+        min-width: 100% !important;
+    }
+
+    .img_icon_tech_focus > img {
+        width: 40% !important;
+    }
+}
+@media(max-width: 1300px) {
+    #personal-data{
+        width: 100%;
+    }
+    #container-logos-languages {
+        width: 100%;
+    }
+
+    #container-list-navigation {
+        width: 85%;
+    }
+
+    #container_text_tech {
+        width: 54%;
+    }
+}
+
+@media(max-width: 1196px) {
+    .link_container_certificate{
+        width: 100%;
+    } 
+}
+@media(max-width: 1100px) {
+    .btn-contact {
+        width: 200px;
+    }
+
+    .list-nav-header {
+        font-size: 12px;
+    }
+    #container-my-image {
+        display: none;
+    }
+    #container-information {
+        width: 100%;
+    }
+
+    #ul_list_sections {
+        font-size: 20px;
+    }
+
+    #container_text_tech {
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 984px) {
+    .link_page_dedicated {
+        min-width: 100%;
+    }
+    #box_information_contact{
+        min-width: 400px !important;
+        width: 100% !important;
+    }
+
+    #form_contact {
+        min-width: 400px !important;
+        width: 100% !important;
+    }
+}
+
+@media(max-width: 930px) {
+    #group-tech {
+        flex-wrap: wrap;
+    }
+
+    #container_text_tech {
+        width: 100%;
+        gap: 50px;
+    }
+
+    #container_icons-tech {
+        width: 100%;
+    }
+    .img_icon_tech_focus > img {
+        width: 60% !important;
+    }
+
+    
+}
+@media(max-width: 916px) {
+    /* .container_group_footer {
+        justify-content: space-around;
+    } */
+    .list_sections_footer {
+        flex-direction: row;
+        width: 50%;
+        font-size: 10px;
+    }
+
+    .footer {
+        padding-bottom: 60px;
+    }
+}
+@media (max-width: 900px) {
+    .nav {
+        justify-content: space-between;
+        padding: 0px 20px 0px 20px;
+    }
+    .hamburguer {
+        display: flex;
+    }
+
+    .btn-contact {
+        display: none;
+    }
+
+    .list-nav-header {
+        display: none;
+    }
+
+    #text-introduction > h2 {
+        font-size: 1.275rem;
+    }
+    #text-introduction > h1 {
+        font-size: 3.063rem;
+    }
+
+    #text-introduction > button {
+        width: 200px;
+    }
+
+    #container-list-navigation {
+        width: 100%;
+    }
+    #section_focus_icons_tech > h1 {
+        font-size: 2.040rem !important;
+    }
+}
+
+@media(max-width: 835px) {
+    #box_img_full_project {
+        min-width: 100% !important;
+    }
+
+    #header_title {
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 750px) {
+
+    #text-question{
+        font-size: 20px;
+    }
+
+    #container-information {
+        font-size: 13px;
+    }
+
+    #ul_list_sections {
+        font-size: 16px;
+    }
+
+    #container_text_tech {
+        font-size: 13px;
+    }
+}
+
+@media(max-width: 732px) {
+    .container_group_footer {
+        justify-content: center;
+    }
+
+    .list_sections_footer {
+        flex-direction: column;
+    }
+}
+
+@media(max-width:650px) {
+    .list-full {
+        width: 70%;
+    }
+
+    .list-full.active {
+        left: 30%;
+    }
+
+    .hamburguer.active {
+        top: 3%;
+        left: 90%;
+    }
+
+    #personal-data{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    #container-logos-languages {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .lenguages {
+        width: 100%;
+    }
+
+    .title-sections {
+        width: 80%;
+    }
+
+    .card_in_focus {
+        flex-wrap: wrap;
+        height: 21rem !important;
+    }
+
+    .img_icon_tech_focus {
+        min-width: 100%;
+        height: 100px;
+    }
+
+    .img_icon_tech_focus > img {
+        height: 100%;
+    }
+    
+    .box_group_description_focus {
+        width: 100% !important;
+    }
+
+    .container_description_certificate > h1 {
+        font-size: 14px;
+    }
+
+    .container_description_certificate > p {
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 500px) {
+    #text-introduction > h2 {
+        font-size: 1.075rem;
+    }
+
+    #text-introduction > h1 {
+        font-size: 2.063rem;
+    }
+
+    #container-icons-midia > a {
+        font-size: 16px;
+    }
+    .container-img-logo {
+        width: 200px;
+    }
+
+    .list-full {
+        width: 100%;
+    }
+
+    .list-full.active {
+        left: 0%;
+    }
+    .title-sections > h1 {
+        font-size: 2.463rem;
+    }
+
+    #ul_list_sections {
+        font-size: 12px;
+    }
+
+    #ul_list_sections {
+        font-size: 10px;
+    }
+
+    .title_card_focus {
+        font-size: 13px;
+    }
+
+    .description_card_focus {
+        font-size: 10px;
+    }
+
+    .status_card_focus {
+        font-size: 10px;
+    }
+
+    .container_description_projects {
+        font-size: 10px;
+    }
+
+    .container_tech_used_project {
+        font-size: 20px;
+    }
+
+    .link_page_dedicated {
+        gap: 0;
+    }
+}
+
+@media(min-width: 900px) { /*isso é para esconder a aba do menu hamburguer quando a tela for muito grande*/
+    .list-full.active {
+        left: 100%;
+    }
+}
